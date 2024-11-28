@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'nuit1',
+=======
+    'nuit1.apps.Nuit1Config'
+>>>>>>> 5002132fd7780484c809fbddcdf71197541f7b3d
 ]
 
 MIDDLEWARE = [
